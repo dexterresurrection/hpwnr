@@ -1,10 +1,3 @@
-# hpwnr
-
-Command-line version of [Happwner](https://github.com/Omegaplexx/Happwner). A **Happ** and **V2RayTun** subscription-link decryptor/encryptor that can fetch, decrypt, encrypt, and convert proxy profiles. It is available as both a CLI tool and a Rust library, built on a from-scratch reimplementation of the Happ and V2RayTun crypto.
-
-Developed by slavrom21 & Omegaplex
-
-
 ## Features
 
 * Decrypt `happ://crypt*/` links. Supported formats: `crypt5`, `crypt4`, `crypt3`, `crypt2`, `crypt`
